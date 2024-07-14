@@ -1,0 +1,6 @@
+Aceptancia para diferentes polarizacoes.
+Nominal: 5300/23027 = 0.230165
+Transversal: 5454/23027 = 0.236852
+Longitudinal: 2954/23027 = 0.128284
+Numero Total de J/psi que decairam em mu+mu- 23027
+Numero Total de eventos em que os dois muons do J/psi estavam dentro da area de Aceptancia 5300
